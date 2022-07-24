@@ -1,2 +1,2 @@
 # linkedin-new-job-generator
-Personal Javascript Beginner Project
+Personal Javascript Project to Practice Javascript
